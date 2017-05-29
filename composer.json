@@ -1,0 +1,15 @@
+{
+    "name": "charinee123456789/calculator",
+    "authors": [
+        {
+            "name": "charinee123456789",
+            "email": "prompukdee.nee@email.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "charinee123456789\\calculator\\": "src/"
+        }
+    }
+}
